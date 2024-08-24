@@ -39,3 +39,33 @@
   name: PigeonBeans - Sunset
   path:
     path: /Audio/Jukebox/sunset.ogg
+
+- type: jukebox
+  id: Luftballoons
+  name: 99 Luftballoons - Nena
+  path:
+    path: /Audio/Jukebox/99-Luftballons.ogg
+
+- type: jukebox
+  id: AYYLMAO
+  name: AYY LMAO - Mothership Omega
+  path:
+    path: /Audio/Jukebox/AYY-LMAO.ogg
+
+- type: jukebox
+  id: Feelthedrip
+  name: Feel the Drip - Black Moth Super Rainbow
+  path:
+    path: /Audio/Jukebox/Feel The Drip.ogg
+
+- type: jukebox
+  id: TheWizard
+  name: The Wizard - Wizard Federation ft. Chris Remo
+  path:
+    path: /Audio/Jukebox/The-Wizard-Wizard-Federation.ogg
+
+- type: jukebox
+  id: Spaceasshole
+  name: Space Asshole - Chris Remo
+  path:
+    path: /Audio/Jukebox/space_asshole.ogg
