@@ -551,6 +551,6 @@
     - DrinkCan
     - Recyclable
   - type: Sprite
-    sprite: Objects/Consumable/Drinks/tempfornow.rsi
+    sprite: Objects/Consumable/Drinks/WehMax.rsi
   - type: Item
-    sprite: Objects/Consumable/Drinks/tempfornow.rsi
+    sprite: Objects/Consumable/Drinks/WehMax.rsi
