@@ -31,18 +31,55 @@
   background: /Textures/LobbyScreens/behonker.webp
 
 - type: lobbyBackground
-  id: TerminalStation
-  background: /Textures/LobbyScreens/terminalstation.webp
-
-- type: lobbyBackground
   id: JustAWeekAway
   background: /Textures/LobbyScreens/justaweekaway.webp
 
+- type: lobbyBackground # Images below with the ID's "CQCm", "Janitor", "Darkmauler", "Drifing", "Indeciphres", "Lavaland", "Nuclear", "Deadgod", and "Bloodgeo" are for Weaselstation.
+  id: CQCm
+  background: /Textures/LobbyScreens/cqcm.webp
+  
 - type: lobbyBackground
-  id: JaniShootout
-  background: /Textures/LobbyScreens/janishootout.webp
+  id: CQCm1
+  background: /Textures/LobbyScreens/cqcm1.webp
 
 - type: lobbyBackground
-  id: ReclaimerNuke
-  background: /Textures/LobbyScreens/reclaimer-nuke.webp
+  id: CQCm2
+  background: /Textures/LobbyScreens/cqcm2.webp
+
+- type: lobbyBackground
+  id: Janitor
+  background: /Textures/LobbyScreens/janitor.webp
+
+- type: lobbyBackground
+  id: CQCm3
+  background: /Textures/LobbyScreens/cqcm3.webp
+
+- type: lobbyBackground
+  id: Darkmauler
+  background: /Textures/LobbyScreens/darkmauler.webp
+
+- type: lobbyBackground
+  id: Drifting
+  background: /Textures/LobbyScreens/drifting.webp
+
+- type: lobbyBackground
+  id: Indeciphres
+  background: /Textures/LobbyScreens/INDECIPHRES.webp
+
+- type: lobbyBackground
+  id: Lavaland
+  background: /Textures/LobbyScreens/lavaland.webp
+
+- type: lobbyBackground
+  id: Nuclear
+  background: /Textures/LobbyScreens/nuclear emergency.webp
+
+- type: lobbyBackground
+  id: Deadgod
+  background: /Textures/LobbyScreens/RuinsOfTheDeadGod.webp
+
+- type: lobbyBackground
+  id: Bloodgeo
+  background: /Textures/LobbyScreens/TheBloodGeometer.webp
+  
   

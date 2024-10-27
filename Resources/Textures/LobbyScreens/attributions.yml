@@ -38,22 +38,67 @@
   copyright: "InCrah on twitter / @in_crah"
   source: "https://twitter.com/in_crah"
 
-- files: ["terminalstation.webp"]
-  license: "CC-BY-SA-3.0"
-  copyright: "aserovich on discord"
-  source: "https://github.com/space-wizards/space-station-14"
-
 - files: ["justaweekaway.webp"]
   license: "CC-BY-SA-3.0"
   copyright: "plantyfern on discord"
   source: "https://github.com/space-wizards/space-station-14"
 
-- files: ["janishootout.webp"]
-  license: "CC0-1.0"
-  copyright: "psychpsyo on Github/Twitter"
-  source: "https://github.com/space-wizards/space-station-14"
-
-- files: ["reclaimer-nuke.webp"]
+- files: ["cqcm.webp"] # These attributions titled "cqcm", "janitor", "darkmauler", "drifting", "indeciphres", "lavaland", "nuclear emergency", "ruins of the dead god", and "the blood geometer" are for Weaselstation
   license: "CC-BY-NC-SA-3.0"
-  copyright: "GetOutMarutak,aka.Snicket on Discord/github/Cara/Ko-fi"
-  source: "https://github.com/space-wizards/space-station-14"
+  copyright: "blooodyspy"
+  source: "https://github.com/GroggleG/Weasel-Station"
+
+- files: ["cqcm1.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "blooodyspy"
+  source: "https://github.com/GroggleG/Weasel-Station"
+
+- files: ["cqcm2.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "blooodyspy"
+  source: "https://github.com/GroggleG/Weasel-Station"
+
+- files: ["cqcm3.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "blooodyspy"
+  source: "https://github.com/GroggleG/Weasel-Station"
+
+- files: ["janitor.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Kor Phaeron"
+  source: "https://tgstation13.org/phpBB/viewtopic.php?t=15554"
+
+- files: ["darkmauler.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["drifting.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["INDECIPHRES.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["lavaland.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["nuclear emergency.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["RuinsOfTheDeadGod.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
+
+- files: ["TheBloodGeometer.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Spessmen Art"
+  source: "https://www.tumblr.com/spessmenart"
